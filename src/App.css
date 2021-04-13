@@ -1,0 +1,10 @@
+html{
+    height: 100%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background: linear-gradient(transparent, #ced4da 70%), url("./Img/wallpaper.jpg");
+  background-size:cover;
+    min-height: 100%;
+}
