@@ -1,7 +1,5 @@
 import React from "react";
 import "./About.css";
-import Aos from "aos";
-import "aos/dist/aos.css";
 
 const About = () => {
 
@@ -65,7 +63,6 @@ const About = () => {
         <>
         <div className="lineUp"></div>
             <Timeline />
-            <About/>
         </>
     )
 }
