@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### On online platform:
+
+https://nervous-pasteur-b3d5b8.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
